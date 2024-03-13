@@ -1,0 +1,99 @@
+
+[
+    {
+    "id": 1,
+    "cover": "https://i.ibb.co/DCWjRNf/kyle-glenn-AR74-Eo-Wdy0-unsplash.jpg",
+    "title": "The Power of Habit",
+    "author_img": "https://i.ibb.co/N3dV30z/aurelien-thomas-Xpejolz-YGvc-unsplash.jpg",
+    "author": "Alice Smith",
+    "posted_date": "2024-03-13",
+    "reading_time": "8 minutes",
+    "hashtags": ["habits", "self-improvement", "psychology"]
+    },
+    {
+    "id": 2,
+    "cover": "https://i.ibb.co/8s4JKS0/lum3n-RBu-Q2-PK-L8-unsplash.jpg",
+    "title": "Exploring the Universe",
+    "author_img": "https://i.ibb.co/4sphDTS/dragos-gontariu-GH-m-SApo-KO0-unsplash.jpg",
+    "author": "Bob Johnson",
+    "posted_date": "2024-03-12",
+    "reading_time": "15 minutes",
+    "hashtags": ["space", "astronomy", "science"]
+    },
+    {
+    "id": 3,
+    "cover": "https://i.ibb.co/Z8ZYj9H/jess-bailey-Bg3qk-PDpop-Y-unsplash.jpg",
+    "title": "Healthy Eating Habits",
+    "author_img": "https://i.ibb.co/Qc99Xct/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+    "author": "Emily Brown",
+    "posted_date": "2024-03-11",
+    "reading_time": "12 minutes",
+    "hashtags": ["health", "nutrition", "lifestyle"]
+    },
+    {
+    "id": 4,
+    "cover": "https://i.ibb.co/Wsh7SpM/sincerely-media-o-Kb-Hnbz2nj-Q-unsplash.jpg",
+    "title": "The Art of Negotiation",
+    "author_img": "https://example.com/author4.jpg",
+    "author": "David Wilson",
+    "posted_date": "2024-03-10",
+    "reading_time": "10 minutes",
+    "hashtags": ["negotiation", "business", "communication"]
+    },
+    {
+    "id": 5,
+    "cover": "https://example.com/cover5.jpg",
+    "title": "Mastering Time Management",
+    "author_img": "https://example.com/author5.jpg",
+    "author": "Sarah Lee",
+    "posted_date": "2024-03-09",
+    "reading_time": "7 minutes",
+    "hashtags": ["timemanagement", "productivity", "efficiency"]
+    },
+    {
+    "id": 6,
+    "cover": "https://example.com/cover6.jpg",
+    "title": "The Science of Happiness",
+    "author_img": "https://example.com/author6.jpg",
+    "author": "Michael Jones",
+    "posted_date": "2024-03-08",
+    "reading_time": "10 minutes",
+    "hashtags": ["happiness", "psychology", "wellbeing"]
+    },
+    {
+    "cover": "https://example.com/cover7.jpg",
+    "title": "Introduction to Machine Learning",
+    "author_img": "https://example.com/author7.jpg",
+    "author": "Sophia Patel",
+    "posted_date": "2024-03-07",
+    "reading_time": "20 minutes",
+    "hashtags": ["machinelearning", "technology", "AI"]
+    },
+    {
+    "cover": "https://example.com/cover8.jpg",
+    "title": "The Art of Public Speaking",
+    "author_img": "https://example.com/author8.jpg",
+    "author": "Daniel Garcia",
+    "posted_date": "2024-03-06",
+    "reading_time": "10 minutes",
+    "hashtags": ["publicspeaking", "communication", "confidence"]
+    },
+    {
+    "cover": "https://example.com/cover9.jpg",
+    "title": "Exploring Cultural Diversity",
+    "author_img": "https://example.com/author9.jpg",
+    "author": "Sophie Anderson",
+    "posted_date": "2024-03-05",
+    "reading_time": "15 minutes",
+    "hashtags": ["culture", "diversity", "society"]
+    },
+    {
+    "cover": "https://example.com/cover10.jpg",
+    "title": "The World of Finance",
+    "author_img": "https://example.com/author10.jpg",
+    "author": "John Smith",
+    "posted_date": "2024-03-04",
+    "reading_time": "10 minutes",
+    "hashtags": ["finance", "economics", "investment"]
+    }
+]
